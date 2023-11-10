@@ -3,5 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="background_app">#FFFFFFFF</color>
+    <color name="sup_background">#F3F5F9</color>
     <color name="background_icon">#BB1020</color>
+    <color name="nav_icon_on_action">#BB1020</color>
+    <color name="nav_icon">#393939</color>
 </resources>
